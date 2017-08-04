@@ -1,0 +1,32 @@
+{
+    "courseName": "科学",
+    "rootTopicId": "C3A865F1-48B9-2742-6AF1-F8AC2E287CD6",
+    "resource": {
+        "canvas": {
+            "canvas": "http://test.sysfrend.com/assets/upload/resource/cvs/2017/07/25/7ddb8262dafe925f912e356dfefb487b.cvs",
+            "voiceRecord": "http://test.sysfrend.com/assets/upload/resource/aac/2017/07/25/7ec5001109f64394783691fe0d333ef3.aac",
+            "isNewCanvas": true,
+            "media": [
+                {
+                    "id": "22DB57D9-54E4-441B-A582-451986E36713",
+                    "url": "http://test.sysfrend.com/assets/upload/resource/jpg/2017/07/25/041778b9c3dc713bd8242162d7c8ceec.jpg"
+                }
+            ],
+            "finalHeight": 906,
+            "finalWidth": 640,
+            "canvasVersion": "2017001",
+            "thumb": "http://test.sysfrend.com/assets/upload/resource/jpg/2017/07/25/a17314e745f824eae93457128f5dfd91.jpg"
+        }
+    },
+    "author": "sebase",
+    "isSelf": 1,
+    "comment": "",
+    "topicId": "C3A865F1-48B9-2742-6AF1-F8AC2E287CD6",
+    "gradeName": "小学",
+    "interact": 1,
+    "isInteract": 0,
+    "addTime": "2017-07-25 23:18:15",
+    "score": 0,
+    "replyNum": 0,
+    "headImg": "http://test.sysfrend.com/assets/headimg/portrait.png"
+}
